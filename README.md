@@ -1,9 +1,10 @@
-<img width="6912" height="2304" alt="Learnova" src="https://github.com/user-attachments/assets/fbe7b9ef-4197-498c-b918-f63ec1515063" />
+
+
 
 
 # Learnova AI
 
-A real-time AI-powered teaching platform that enables personalized learning through interactive AI companions.
+A real-time AI-powered Learning platform that enables personalized learning through interactive AI companions.
 
 ##  Overview
 
