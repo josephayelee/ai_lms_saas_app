@@ -1,6 +1,4 @@
-
-
-
+<img width="6912" height="2304" alt="learnova (1)" src="https://github.com/user-attachments/assets/9e9f1b31-cea6-42cc-9015-d237339aa559" />
 
 # Learnova AI
 
